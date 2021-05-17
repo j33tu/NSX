@@ -26,7 +26,7 @@ function Copy-Ipsetv2t {
         Prompts for Credentials , Provide Credential which has full rights on Nsx v Manager and t manager
     
     .LINK
-    Online version: https://github.com/vmware/powernsx
+    Online version: https://github.com/j33tu/NSX
 
     .LINK
     Set-Item
