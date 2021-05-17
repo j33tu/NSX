@@ -15,10 +15,10 @@ function Copy-Ipsetv2t {
     Specifies the extension. "Txt" is the default.
 
     .INPUTS
-    None. You cannot pipe objects to Add-Extension.
+     Takes NSXV and NSX T Manager fqdn and Credentials Credential1 is for NSX V and Credential2 is for NSX T 
 
     .OUTPUTS
-    System.String. Add-Extension returns a string with the extension or file name.
+    None
 
     .EXAMPLE
     C:\PS> Copy-Ipsetv2t -nsxvmanager nsxvmanage -nsxtmanager  nsxvmanager 
